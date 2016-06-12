@@ -1,4 +1,5 @@
 #!/ffp/bin/sh
+# Author: Anirudh Acharya
 
 entware_start()
 {
